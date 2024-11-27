@@ -1,7 +1,12 @@
 # OmniCD_Masque
 Masque Support for the WoW AddOn 'OmniCD'
 
-<p style="text-align: left;"><span style="text-decoration: underline; font-size: 18px; font-family: tahoma, arial, helvetica, sans-serif;"><strong>What is this AddOn for!?</strong></span><br /><br /><span style="font-family: tahoma, arial, helvetica, sans-serif;">This AddOn adds Masque Support for the WoW AddOn 'OmniCD'.</span><br /><br /><span style="text-decoration: underline; font-size: 18px; font-family: tahoma, arial, helvetica, sans-serif;"><strong>Quick Start</strong></span></p>
-<p style="text-align: left;"><br /><span style="font-family: tahoma, arial, helvetica, sans-serif;">If you've installed OmniCD and Masque, you can simply install this AddOn and it will run out of the box.</span><br /><br /><span style="text-decoration: underline; font-size: 18px; font-family: tahoma, arial, helvetica, sans-serif;"><strong>Issues</strong></span></p>
-<p style="text-align: left;"><br /><span style="font-family: tahoma, arial, helvetica, sans-serif;">If you've discovered bugs, errors or have any issues with this AddOn, don't hesitate to <a href="https://github.com/muleyo/OmniCD_Masque/issues/new">post an issue</a>.</span><br /><br /><span style="text-decoration: underline; font-size: 18px; font-family: tahoma, arial, helvetica, sans-serif;"><strong>Support me</strong></span></p>
-<p style="text-align: left;"><a href="https://buy.stripe.com/dR63cc6Fgaak3GodQR"><img src="https://i.imgur.com/wiGEh0c.png" alt="" width="40" height="40" /></a><a href="https://twitch.tv/muleyo"><img src="https://i.imgur.com/Y7MfwoU.png" alt="" width="40" height="40" /></a></p>
+## Requirements
+- Masque
+- OmniCD
+
+## Issues
+- If you've discovered bugs, errors or have any issues with this AddOn, don't hesitate to [post an issue](https://github.com/muleyo/OmniCD_Masque/issues/new).
+
+## Support me
+<a href="https://buy.stripe.com/dR63cc6Fgaak3GodQR"><img src="https://i.imgur.com/wiGEh0c.png" alt="" width="40" height="40" /></a><a href="https://twitch.tv/muleyo"><img src="https://i.imgur.com/Y7MfwoU.png" alt="" width="40" height="40" /></a>
