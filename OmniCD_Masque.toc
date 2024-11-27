@@ -1,0 +1,12 @@
+## Interface: 110005
+## Title: Masque: OmniCD
+## Notes: Masque Support for OmniCD
+## Author: muleyo
+## Version: v1.0.0
+## DefaultState: Enabled
+## IconTexture: Interface\AddOns\OmniCD\Media\omnicd-logo64-c
+## X-License: All Rights Reserved
+## X-Website: https://www.curseforge.com/wow/addons/omnicd_masque
+## X-Curse-Project-ID: 306489
+
+Embeds.xml
