@@ -1,4 +1,4 @@
-# OmniCD_Masque
+# AddOn purpose
 Masque Support for the WoW AddOn 'OmniCD'
 
 ## Requirements
